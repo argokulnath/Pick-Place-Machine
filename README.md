@@ -10,7 +10,9 @@
 * We used Python(RPI) and Arduino(C++) for coding.
 
 # Mechanical details
-This code should work for any motors which working principle ia same as an stepper motor
+This code should work for any stepper motor
+all Hbot designs should work
+* but this code is for linear drive design not for h-bot or other corexy mechanisms (u can customise it if you want to)
 
 # necessary library for RPI
 * Use raspbian os
@@ -24,7 +26,7 @@ This code should work for any motors which working principle ia same as an stepp
 * numpy for python
 
 # Running the program
-python final <gerberfile> <pickup_file>
+python final <gerberfile.xlx>  <pickup_file.xlx> 
 
 # customizing the program
 add your own components for image recognition in the same folder where final.py and then add the file name in opencv.txt
