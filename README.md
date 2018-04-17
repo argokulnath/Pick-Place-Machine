@@ -1,8 +1,8 @@
 # Pick-Place-Machine
-# Automated Surface Mount Device (SMD) Pick and Place (P&P) Machine
-# we the Authors share equal rights to this Project and Repository. This code is liscenced under GPL v3.0 and any work which is done using this code must mention the Credits to the Authors.
-# Authors: Gokulnath A R <argokulnath@yahoo.co.in>  & Chandrakumar <chandru.ck58@gmail.com>
-(mail id is just for very important communication purposes! any other mails will be ignored)use the comment section or any doubts
+* Automated Surface Mount Device (SMD) Pick and Place (P&P) Machine
+* we the Authors share equal rights to this Project and Repository. This code is liscenced under GPL v3.0 and any work which is done using this code must mention the Credits to the Authors.
+* Authors: Gokulnath A R <argokulnath@yahoo.co.in>  & Chandrakumar <chandru.ck58@gmail.com>
+(mail id is just for very important communication purposes! any other mails will be ignored)
 
 <----------------------------------------------------------------------------------------------------->
 
