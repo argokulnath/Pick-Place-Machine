@@ -6,15 +6,15 @@
 
 <----------------------------------------------------------------------------------------------------->
 
-
+# About the Project
 * This project is an open source SMD pick and place machine an alternative approach in order to minimize the cost of P&P Machine and customizable according to the user needs.
 * We used Arduino and Raspberry PI for this project inorder to be true opensource.
 * We used python(RPI) and Arduino(C++) for coding.
 
-##Mechanical details
-This code should work for any motors which working principle ia same as an stepper motor
+# Mechanical details
+This code should work for any motors whose working principle is same as an stepper motor
 
-##necessary library for RPI
+# necessary library for RPI
 Use raspbian os
 Use opencv 3.3.0
 openpyxl for python
@@ -25,9 +25,9 @@ cv2 for python
 imutils for python
 numpy for python
 
-##Running the program
+# Running the program
 python final <gerberfile> <pickup_file>
 
-##customizing the program
+# customizing the program
 add your own components for image recognition in the same folder where final.py and then add the file name in opencv.txt
 directions for creating your own file is given in resistor.py file
