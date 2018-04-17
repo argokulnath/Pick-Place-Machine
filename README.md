@@ -12,6 +12,7 @@
 This code should work for any stepper motor
 all Hbot designs should work
 * but this code is for linear drive design not for h-bot or other corexy mechanisms (u can customise it if you want to)
+* Connect RPI and Arduino via USB Cable inorder for this code to work!
 
 # Necessary library for RPI
 * Use raspbian os
